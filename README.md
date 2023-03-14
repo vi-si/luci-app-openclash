@@ -2,7 +2,7 @@
 该项目来自于https://github.com/vernesong/OpenClash
 之所以建立这个项目只是为了方便编译克隆
 luci-app-openclash 适用于Openwrt 编译
-## 同步源码
+## 源码
     cd lede/package
     
     git clone https://github.com/vi-si/luci-app-openclash.git 
